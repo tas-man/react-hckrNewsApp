@@ -1,0 +1,37 @@
+.navbar-list-item {
+  display: inline-block;
+  height: 70%;
+  min-width: 50px;
+  width: 10%;
+  padding: 1%;
+}
+
+.navBtn {
+  background-color: #282c32;
+  width: 100%;
+  height: 70%;
+  margin: 1%;
+  color: #e7dede;
+  border: 0;
+  font-weight: bold;
+}
+
+.navBtn-active {
+  background-color: #e7dede;
+  width: 100%;
+  height: 70%;
+  margin: 1%;
+  color: #202328;
+  border: 0;
+  font-weight: bold;
+}
+
+.navBtn:hover {
+  background-color: #e7dede;
+  width: 100%;
+  height: 70%;
+  margin: 1%;
+  color: #202328;
+  border: 0;
+  font-weight: bold;
+}
